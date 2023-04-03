@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "859997741672",
+    "firebase_url": "https://spin-for-cash-55563.firebaseio.com",
+    "project_id": "spin-for-cash-55563",
+    "storage_bucket": "spin-for-cash-55563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859997741672:android:0678fd7fafa3c910",
+        "android_client_info": {
+          "package_name": "com.cash.spinningwheelandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859997741672-3r32jult0ddptuhqh38d6gafu905cs6k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cash.spinningwheelandroid",
+            "certificate_hash": "7227d61ad460733a32846815ad41487d22c7a33b"
+          }
+        },
+        {
+          "client_id": "859997741672-cgnpkk3jls75ds5rck9v25sgbubuqola.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5mWmNtAuOXuxSGeb5Jp3Da3URYl79oew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859997741672-cgnpkk3jls75ds5rck9v25sgbubuqola.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

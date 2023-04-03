@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Spin For Cash</string>
+    <string name="payment">Payment</string>
+    <string name="wallet">Wallet</string>
+    <string name="login">Login</string>
+    <string name="hot">Hot Offer</string>
+    <string name="lucky">Lucky Number</string>
+    <string name="refer">Refer Friend</string>
+
+
+    <string name="facebook_app_id">378361059310731</string>
+    <string name="fb_login_protocol_scheme">fb378361059310731</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string-array name="dummy">
+
+        <item>250</item>
+        <item>3</item>
+        <item>1</item>
+        <item>400</item>
+        <item>200</item>
+        <item>7</item>
+        <item>10</item>
+        <item>300</item>
+        <item>8</item>
+        <item>5</item>
+        <item>500</item>
+        <item>Oops!</item>
+        <item>9</item>
+        <item>100</item>
+        <item>90</item>
+        <item>1000</item>
+
+    </string-array>
+</resources>
